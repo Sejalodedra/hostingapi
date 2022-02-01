@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Sejalodedra/hostingapi/issues"
   },
-  "homepage": "https://github.com/Sejalodedra/hostingapi#readme"
+  "homepage": "https://github.com/Sejalodedra/hostingapi#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
